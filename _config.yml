@@ -18,12 +18,11 @@ avatar: https://avatars3.githubusercontent.com/u/8176963?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: jacobtarnow@gmail.com
-  facebook: jake.tarnow
-  github: jaketarnow
-  instagram: jaketarnow
-  linkedin: jacobtarnow
-  rss: rss
   twitter: jaketarnow
+  github: jaketarnow
+  linkedin: jacobtarnow
+  instagram: jaketarnow
+  rss: rss
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 
