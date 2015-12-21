@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ## Technical Proficiencies
-<table border = "1">
+<table cellspacing = "2" cellborder = "1" border = "1">
 <tr><td>JavaScript (Proficient)</td><td>Java (Intermediate)</td><td>T-SQL (Proficient)</td></tr>
 <tr><td>HTML5 (Proficient)</td><td>Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
 <tr><td>MySQL (Proficient)</td><td>XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
