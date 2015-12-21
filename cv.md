@@ -6,10 +6,10 @@ permalink: /cv/
 
 ## Technical Proficiencies
 <table cellspacing = "0px" cellborder = "0px" border = "2px" style="border: black;">
-<tr><td align="left" width="200px;">JavaScript (Proficient)</td><td align="left" width="200px;">Java (Intermediate)</td><td align="left" width="200px;">T-SQL (Proficient)</td></tr>
-<tr><td align="left" width="200px;">HTML5 (Proficient)</td><td align="left" width="200px;">Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
-<tr><td align="left" width="200px;">MySQL (Proficient)</td><td align="left" width="200px;">XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
-<tr><td align="left" width="200px;">C (Beginner)</td><td align="left" width="200px;">Unix (Intermediate)</td><td>Linux (Intermediate)</td></tr>
+<tr><td align="left" width="300px;">JavaScript (Proficient)</td><td align="left" width="300px;">Java (Intermediate)</td><td align="left" width="300px;">T-SQL (Proficient)</td></tr>
+<tr><td align="left" width="300px;">HTML5 (Proficient)</td><td align="left" width="300px;">Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
+<tr><td align="left" width="300px;">MySQL (Proficient)</td><td align="left" width="300px;">XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
+<tr><td align="left" width="300px;">C (Beginner)</td><td align="left" width="300px;">Unix (Intermediate)</td><td>Linux (Intermediate)</td></tr>
 </table>
 
 ## Work History
