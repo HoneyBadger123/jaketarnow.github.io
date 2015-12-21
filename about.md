@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently pursuing my master's degree in Computer Science at the [University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/computer-science). I am also a part-time Associate Developer at [Acxiom](http://www.acxiom.com/). 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+*If something is important enough you should try, even if the probable outcome is failure.* - Elon Musk
