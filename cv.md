@@ -5,12 +5,12 @@ permalink: /cv/
 ---
 
 ## Technical Proficiencies
-|           |                   |           |                   |           |                   |
-| --------- |:-----------------:|---------- |:----------------- |:--------- |:----------------- |:
-| JavaScript| Proficient        | CSS3      | Proficient        | T-SQL     | Proficient        |
-| Java      | Intermediate      | Python    | Intermediate      | MySQL     | Proficient        |
-| HTML5     | Proficient        | C         | Beginner          | XML       | Proficient        |
-| PHP       | Intermediate      | Unix      | Intermediate      | Linux     | Intermediate      |
+<table border = "1">
+<tr><td>JavaScript (Proficient)</td><td>Java (Intermediate)</td><td>T-SQL (Proficient)</td></tr>
+<tr><td>HTML5 (Proficient)</td><td>Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
+<tr><td>MySQL (Proficient)</td><td>XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
+<tr><td>C (Beginner)</td><td>Unix (Intermediate)</td><td>Linux (Intermediate)</td></tr>
+</table>
 
 
 ## Work History
