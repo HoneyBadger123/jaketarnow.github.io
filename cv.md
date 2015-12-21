@@ -5,11 +5,21 @@ permalink: /cv/
 ---
 
 ## Technical Proficiencies
+| Language      | Proficiency   |
+| ------------- |:-------------:|
+| JavaScript| Proficient        |
+| Java      | Intermediate      |
+| HTML5     | Proficient        |
+| CSS3      | Proficient        |
+| Python    | Intermediate      |
+| C         | Beginner          |
+| T-SQL     | Proficient        |
+| MySQL     | Proficient        |
+| XML       | Proficient        |
+| PHP       | Intermediate      |
+| Unix      | Intermediate      |
+| Linux     | Intermediate      |
 
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ## Work History
 ### Associate Developer, Acxiom, Redwood City, CA 
