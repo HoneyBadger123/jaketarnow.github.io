@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 
 ## Technical Proficiencies
-| JavaScript (Proficient)     | Java (Intermediate) | Python (Intermediate) |
-| HTML5 (Proficient)      | CSS3 (Proficient)     |   T-SQL (Proficient) |
-| MySQL (Proficient) | XML (Proficient)     |    PHP (Intermediate) |
-| Unix (Intermediate) | Linux (Intermediate)     |    C (Beginner) |
+| JavaScript (Proficient) | Java (Intermediate) | Python (Intermediate) |
+| HTML5 (Proficient)      | CSS3 (Proficient)   | T-SQL (Proficient)    |
+| MySQL (Proficient)      | XML (Proficient)    | PHP (Intermediate)    |
+| Unix (Intermediate)     | Linux (Intermediate)| C (Beginner)          |
 
 ## Work History
 ### Associate Developer, Acxiom, Redwood City, CA 
@@ -55,6 +55,7 @@ permalink: /cv/
 
 ### (September 2011 - May 2013)
 * Created, updated, and maintained the various student media websites for Marquette University.
+
 
 
 ## Education
