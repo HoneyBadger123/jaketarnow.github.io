@@ -5,13 +5,12 @@ permalink: /cv/
 ---
 
 ## Technical Proficiencies
-<table cellspacing = "2px" cellborder = "1px" border = "1px" style="border: black;">
-<tr><td>JavaScript (Proficient)</td><td>Java (Intermediate)</td><td>T-SQL (Proficient)</td></tr>
-<tr><td>HTML5 (Proficient)</td><td>Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
-<tr><td>MySQL (Proficient)</td><td>XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
-<tr><td>C (Beginner)</td><td>Unix (Intermediate)</td><td>Linux (Intermediate)</td></tr>
+<table cellspacing = "0px" cellborder = "0px" border = "2px" style="border: black;">
+<tr><td align="left" width="100px;">JavaScript (Proficient)</td><td align="left" width="100px;">Java (Intermediate)</td><td align="left" width="100px;">T-SQL (Proficient)</td></tr>
+<tr><td align="left" width="100px;">HTML5 (Proficient)</td><td align="left" width="100px;">Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
+<tr><td align="left" width="100px;">MySQL (Proficient)</td><td align="left" width="100px;">XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
+<tr><td align="left" width="100px;">C (Beginner)</td><td align="left" width="100px;">Unix (Intermediate)</td><td>Linux (Intermediate)</td></tr>
 </table>
-
 
 ## Work History
 ### Associate Developer, Acxiom, Redwood City, CA 
