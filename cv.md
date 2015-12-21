@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 ## Technical Proficiencies
+| ------------------------|:-------------------:| ---------------------:|
 | JavaScript (Proficient) | Java (Intermediate) | Python (Intermediate) |
 | HTML5 (Proficient)      | CSS3 (Proficient)   | T-SQL (Proficient)    |
 | MySQL (Proficient)      | XML (Proficient)    | PHP (Intermediate)    |
