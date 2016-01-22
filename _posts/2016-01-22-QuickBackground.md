@@ -10,3 +10,27 @@ Honestly, Computer Science was not my plan entering college as an undergrad. I w
 Since my undergraduate studies, I found software development and started to fall in love with computer science. Once working at [GAIN Fitness](https://gainfitness.com/), I was able to see software engineering in action. Starting from diagrams and problems on a white board to opening an app on my phone. From there I knew I wanted to pursue Computer Science, and make software engineering a career decision. I believe that through the MSCS program at USF, I will be able to grow as a software engineer and broaden my horizons through the valuable coursework and opportunities that USF offers through the program. I truly have the desire to learn as much as possible and to reach my goals in computer science. 
 
 So much for a quick rundown of my background and experiences.  Now for the fun stuff: examples of the many projects/challenges that I face through graduate school and the industry. Stay tuned!
+
+
+<div id="disqus_thread"></div>
+<script>
+/**
+* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//jaketarnow.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
