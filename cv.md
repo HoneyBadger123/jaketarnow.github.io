@@ -6,10 +6,9 @@ permalink: /cv/
 
 ## Technical Proficiencies
 <table cellspacing = "0px" cellborder = "0px" border = "2px" style="border: black;">
-<tr><td align="left" width="300px;">JavaScript (Proficient)</td><td align="left" width="300px;">Java (Intermediate)</td><td align="left" width="300px;">T-SQL (Proficient)</td></tr>
-<tr><td align="left" width="300px;">HTML5 (Proficient)</td><td align="left" width="300px;">Python (Intermediate)</td><td>CSS3 (Proficient)</td></tr>
-<tr><td align="left" width="300px;">MySQL (Proficient)</td><td align="left" width="300px;">XML (Proficient)</td><td>PHP (Intermediate)</td></tr>
-<tr><td align="left" width="300px;">C (Beginner)</td><td align="left" width="300px;">Unix (Intermediate)</td><td>Linux (Intermediate)</td></tr>
+<tr><td align="left" width="300px;">Java (Intermediate)</td><td align="left" width="300px;">Unix/Linux (Intermediate)</td><td align="left" width="300px;">HTML5 (Proficient)</td></tr>
+<tr><td align="left" width="300px;">JavaScript (Intermediate)</td><td align="left" width="300px;">Python (Beginner)</td><td>CSS3 (Proficient)</td></tr>
+<tr><td align="left" width="300px;">C (Intermediate)</td><td align="left" width="300px;">MySQL/T-SQL (Proficient)</td><td>PHP (Intermediate)</td></tr>
 </table>
 
 ## Work History
@@ -66,7 +65,7 @@ Masters in Computer Science, Expected 2017
 
 _Relevant Coursework_
 
-Principles of Software Development, Graduate Algorithms
+Principles of Software Development, Graduate Algorithms, Programming Languages, Systems Foundations
 
 ### Marquette University, Milwaukee, WI
 Bachelor of Arts Degree, May 2013
