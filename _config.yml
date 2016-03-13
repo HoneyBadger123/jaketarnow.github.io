@@ -48,7 +48,6 @@ baseurl: ""
 #
 
 kramdown: redcarpet
-highlighter: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
