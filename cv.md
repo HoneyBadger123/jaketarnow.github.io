@@ -76,7 +76,7 @@ _Relevant Coursework_
 Introduction to Information Technology, Web-Based Applications, Business Application Development, Systems Analysis and Design, Database Management, Program Development, Business Applications, Media Law, and Visual Communication
 
 
-## Activities & Involvement
+### Activities & Involvement
 ### President-Marquette Club Water Polo, Milwaukee, WI 
 ### (April 2012- May 2013)
 * Keep in contact with CWPA, organize and plan events, maintain a budget, coach practices, uphold rules and regulations.
