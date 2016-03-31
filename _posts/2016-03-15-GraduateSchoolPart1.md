@@ -2,7 +2,7 @@
 layout: post
 title: Graduate School Part 1
 ---
-![USF Campus](https://github.com/jaketarnow/jaketarnow.github.io/blob/master/images/IMG_3159.JPG =250x "USF Campus")
+<img src="https://github.com/jaketarnow/jaketarnow.github.io/blob/master/images/IMG_3159.JPG" alt="USF Campus" title="USF Campus" style="width: 250px;"/>
 It has been a couple months already in my second semester of graduate school and things have definitely picked up. Last semester we had two classes and a seminar. The classes were: Principles of Software Development, Graduate Algorithms, and Research Seminar (Data Visualization).  
 
 Now, prior to grad school I had only worked primarily in scripting languages and markdown languages such as: HTML5, JavaScript, SQL, CSS3, and php.  I had never formally learned a statically typed programming language such as Java or C. Yet, before school started I taught myself Java, C, and took a class at San Francisco State to ramp up on my math, data structures and algorithms.  
