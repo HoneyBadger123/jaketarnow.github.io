@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Graduate School Part 1
-excerpt: It has been a couple months already in my second semester of graduate school and things have definitely picked up. Last semester we had two classes and a seminar. The classes were: Principles of Software Development, Graduate Algorithms, and Research Seminar (Data Visualization).
+excerpt_separator: <!--more-->
 ---
-
+<!--It has been a couple months already in my second semester of graduate school and things have definitely picked up. Last semester we had two classes and a seminar. The classes were: Principles of Software Development, Graduate Algorithms, and Research Seminar (Data Visualization).-->
+<!--more-->
 ![USF Campus]({{ site.url }}/images/IMG_3159.JPG)
 
 It has been a couple months already in my second semester of graduate school and things have definitely picked up. Last semester we had two classes and a seminar. The classes were: Principles of Software Development, Graduate Algorithms, and Research Seminar (Data Visualization).
