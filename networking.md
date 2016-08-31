@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Computer Networking
-permalink: /projects/compnetworking
+permalink: /projects/compnetworking/
 ---
 
 # Computer Networking
