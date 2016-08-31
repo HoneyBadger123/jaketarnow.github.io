@@ -26,7 +26,9 @@ To build an application that can decode all devices found on your wifi network a
 * Possibly suggest ways to optimize your home network
 
 ## Tentative Schedule *Meeting Weekly*
+
 Throughout this project, I will be referring to *Computer Networking: A Top-Down Approach (7th Edition)* as a guide to all things computer networking and networking protocols.
+
 * Week 1: (Aug 29 - Sept 3) - Create page/wiki and determine a rough set of tasts and objectives for the project. Continue with research on networking and systems.
 * Week 2: (Sept 4 - Sept 10) - Continue research on networking protocols and introduction to Objective-C and Swift
 * Week 3: (Sept 11 - Sept 17) - Build test application to connect to a wifi network and verify connection
