@@ -13,9 +13,8 @@ To build an application that can decode all devices found on your wifi network a
 
 ## Technologies
 * Objective-C
-* Swift
-* AWS
-* More?
+* C
+* Python
 
 ## Tasks
 * Find all devices on wifi. Display network address, name of device, and manufacturer (Decoding MAC Address)
@@ -32,8 +31,15 @@ Throughout this project, I will be referring to *Computer Networking: A Top-Down
 * Week 1: (Aug 29 - Sept 3) - Create page/wiki and determine a rough set of tasts and objectives for the project. Continue with research on networking and systems.
 * Week 2: (Sept 4 - Sept 10) - Continue research on networking protocols and introduction to Objective-C and Swift
 * Week 3: (Sept 11 - Sept 17) - Build test application to connect to a wifi network and verify connection
-* Week 4: (Sept 18 - Sept 24) - Iterate on application and clean up connections and bugs
-* Week 5: (Sept 25 - Oct 1) - 
-* Week 6: (Oct 2 - Oct 8)
-* Week 7: (Oct 9 - Oct 15)
-* Week 8: (Oct 16 - Oct 22)
+* Week 4: (Sept 18 - Sept 24) - Build test application to connect to a wifi network and simple ping all ports and retreive device
+* Week 5: (Sept 25 - Oct 1) - Test C and Python in Objective-C. Iterate on application and clean up connections and bugs. Apply other protocol discovery
+* Week 6: (Oct 2 - Oct 8) - Apply with UDP/IP sockets. Possibly integrate Scapy to forge or decode packets of a wide number of protocols. Help to find any devices that have not been discoverable yet
+* Week 7: (Oct 9 - Oct 15) - First Main Deliverable Due: Fully Functional App to ping all devices and show basic diagnostic. How long it has been on the network
+* Week 8: (Oct 16 - Oct 22) - 
+* Week 9: (Oct 23 - Oct 29) - Second Main Deliverable Due: 
+* Week 10: (Oct 30 - Nov 5) - 
+* Week 11: (Nov 6 - Nov 12) - Third Main Deliverable Due: 
+* Week 12: (Nov 13 - Nov 19) - 
+* Week 13: (Nov 20 - 26) - Fourth Main Deliverable Due: 
+* Week 14: (Nov 27 - Dec 3) - Final Edits and Documentation
+* Week 15: (Dec 4 - Dec 10) - Present Final Application and Use Cases
