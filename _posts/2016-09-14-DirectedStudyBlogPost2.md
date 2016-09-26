@@ -5,7 +5,9 @@ excerpt_separator: <!--more-->
 ---
 For this week we discussed the basic design of the application. As you can see below, the design is quite simple right now. My plan is to allow the user to select the Wifi network that they wish to scan. Once slected, they can choose between a speed tests or device discovery. <!--more-->
 The application will use ICMP protocols for device discovery. Yet, we will probably investigate other protocols as some things such as an Amazon Echo are hard to discover from a basic brute force ICMP pinging technique.
-![Snoopy App V1]({{ site.url }}/images/Screen Shot 2016-09-15 at 8.26.53 PM.png =200x300){: .center-image }
+
+![Snoopy App V1]({{ site.url }}/images/Screen Shot 2016-09-15 at 8.26.53 PM.png =250x){: .center-image }
+
 I was able to prototype some code via Swift to display the SSID and BSSID on the application. Yet, after researching more into Swift, I realized that are many limitations when it comes to networking and socket programming. I have since migrated over to Objective-C, where I can use more libraries and execute raw C code. Hopefully this works well and can help me accomplish the tasks that I have set for this application.
 
 <div id="disqus_thread"></div>
