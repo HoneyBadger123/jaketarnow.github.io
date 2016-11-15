@@ -20,12 +20,14 @@ permalink: /cv/
 ### Associate Developer, Acxiom, Redwood City, CA 
 
 ### (April 2015 - August 2016)
+
 * Lead developer for various Fortune 500 clients. Improve efficiency of both front-end and back-end.
 * Build large scalable applications for global email campaigns and reusable components to form team applications.
 
 ### Content Specialist, Acxiom, Redwood City, CA 
 
 ### (November 2013 - April 2015)
+
 * Front End Developer for various Fortune 500 clients.
 * Build JavaScript parsing applications for global email campaigns.
 * Implemented responsive web/email, sms, and social campaigns utilizing various platforms.
@@ -34,18 +36,21 @@ permalink: /cv/
 ### Front End Developer (Consulting), Diablo Custom Publishing, Walnut Creek, CA 
 
 ### (September 2013 - November 2013)
+
 * Tackled a wide variety of coding bugs and implemented new development.
 * Brainstormed, prototyped, and published new concepts and approaches with recognized speed.
 
 ### Business Development Associate, GAIN Fitness, San Francisco, CA 
 
 ### (September 2013 - November 2013)
+
 * Built partner development, client relationships, and content marketing plans.
 * Developed strategy and outreach to targeted trainers resulting in an elite trainer database.
 
 ### Intern, Diablo Custom Publications, Diablo Magazine, Walnut Creek, CA 
 
 ### (June 2013 - September 2013)
+
 * Performed database analytics on website visits and asset downloads.
 * Focused on database mining for marketing automation systems.
 * Assisted in overall marketing success through implementation of new website functionality.
@@ -53,6 +58,7 @@ permalink: /cv/
 ### Intern, GAIN Fitness, San Francisco, CA 
 
 ### (June 2012 - September 2013)
+
 * Designed multimedia and web development for the product and company.
 * Produced and edited various social media videos and revamped company blog. 
 * Aided in trainer and partner research.
@@ -60,6 +66,7 @@ permalink: /cv/
 ### SMI Web Programmer, Marquette University, Milwaukee, WI 
 
 ### (September 2011 - May 2013)
+
 * Created, updated, and maintained the various student media websites for Marquette University.
 
 
