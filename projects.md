@@ -10,4 +10,6 @@ permalink: /projects/
 # [Blockchain DAPP (Sponsored by AT&T)]()
 *Building a decentralized application to verify identity...*
 
+# [Intrusion Detector (Data Mining/Machine Learning)]()
+*Intrusion Detection Learning adapted from KDD*
  
