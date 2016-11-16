@@ -3,13 +3,13 @@ layout: post
 title: Directed Study - Post X
 excerpt_separator: <!--more-->
 ---
-Well, it's been a while. Super focused on all my other projects and keep getting hit with issues and blocks on this. Since last post...which was about a month ago, we now ICMP discover and UPNP discovery working.
+Well, it's been a while. Super focused on all my projects and keep getting hit with issues and blocks on this one. Since my last post...which was about a month ago, we now have ICMP discovery and UPNP discovery working. *For anyone ever using C code within Objective-C...please please please be aware of you address space and how much memory you are allocating. Running C from cmd line is so much nicer with gdb and flags then in XCode*. 
 
-In the main app's table, you will see all devices that are found and the discovery protocol used. If you would like to run diagnostics for such device, you can click on a button where I nice little pop-up display.<!--more--> 
+In the main app's table, you will see all devices that are found and the discovery protocol used. If you would like to run diagnostics for such device, you can click on a button where a nice little pop-up displays it.<!--more--> 
 
-But, there is no speedtest currently. I was able to research a pretty simple and efficient speedtest script that is using Python and C. Yet, there is not a ton of documentation on how to execute Python from Objective-C. 
+But, there is no speedtest currently. *:(* I was able to research a pretty simple and efficient speedtest script that is using Python and C. Yet, there is not a ton of documentation on how to execute Python from Objective-C. So on we go, digging through StackOverflow and testing out scripts from terminal. 
 
-Currently digging through all of that to try and find some hope! As well as accomplishing the speedtest, I have also been researching persistent storage within iOS. If I use a specific class called the NSUserDefaults class, then I can store app-specific preferences in a property list and all file handling is encapsulated by this class. With all of this, there is a synchronize method that writes changes to the file, so when your app terminates everything is saved. 
+Currently digging through all of that to try and find some hope! As well as accomplishing the speedtest, I have also been researching persistent storage within iOS. If I use a specific class called the *NSUserDefaults* class, then I can store app-specific preferences in a property list and all file handling is encapsulated by this class. With all of this, there is a synchronize method that writes changes to the file, so when your app terminates everything is saved. 
 
 From all of this, I was able to create an archive and unarchive function, that writes the data (discovered devices) to your archive.dat file on your device. Then, upon re-opening the device it will pull this data back into the app. This can serve as a nice way of persistent storage for re-opening your app, and it can be used to run statistical models on how often said device is found upon discovery.
 
