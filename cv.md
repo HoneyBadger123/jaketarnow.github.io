@@ -3,4 +3,4 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-<img src="https://github.com/jaketarnow/jaketarnow.github.io/blob/master/_pdfs/TarnowResume_Spring2017.pdf" alt="Resume" style="width:600px;height:600px;">
+<img align="center" src="https://drive.google.com/open?id=0B8L9toRB0NgsLWloR1VVZzFFNm8" alt="Resume" style="width:600px;height:600px;">
