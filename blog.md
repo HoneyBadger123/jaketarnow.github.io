@@ -2,13 +2,21 @@
 layout: post
 title: blog
 description: All blog posts
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 <div align="center">
-<ul style="list-style: none;">
 {% for post in site.posts %}
-<li><span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span><br><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br><br></li>
+	{% if site.tiles-source == 'posts' %}
+        <article>
+                <span class="image">
+                        <img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+                        <p>{{ post.description }}</p>
+                </header>
+        </article>
+	{% endif %}
 {% endfor %}
-</ul>
 </div>
