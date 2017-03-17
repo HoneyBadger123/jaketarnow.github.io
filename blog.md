@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog
+title: All Posts
 description: All blog posts
 image: 
 nav-menu: true
