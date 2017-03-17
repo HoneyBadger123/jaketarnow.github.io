@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Directed Study - Post 1
-excerpt_separator: <!--more-->
+description: I'm building an app!
+image: assets/images/pic02.jpg
 ---
-Over the past week I have been reviewing Apple Developer Guides/Samples on ways to view devices on one's home network via an iOS app, aka Objective-C or Swift.<!--more-->
+Over the past week I have been reviewing Apple Developer Guides/Samples on ways to view devices on one's home network via an iOS app, aka Objective-C or Swift.
+
 Through my research I have been able to find sample code on Apple's "Simple Ping". This small application will ping a host until you tell it to stop. I believe this could be utilized in a way to ping a certain range of IP Addresses once the initial one is found.
 The only limitation is that via StackOverflow, people have stated that the Objective-C code can only access laptops and desktops, not mobile devices. I am going to be conducting more research into this shortly. 
 

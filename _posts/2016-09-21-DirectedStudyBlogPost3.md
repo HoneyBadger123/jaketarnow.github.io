@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Directed Study - Post 3
-excerpt_separator: <!--more-->
+description: Device discovery via UDP multicast
+image: assets/images/pic01.jpg
 ---
-Currently all of the device discovery via the applications is using ICMP requests. What is the response we get back? As of now, I am sending a network packet and I am looking to see what I get in reply. If something is returned, then it is a known host. Some hosts ignore everything, so how will we get those devics? Try other protocols?<!--more--> Spoof the network?
+Currently all of the device discovery via the applications is using ICMP requests. What is the response we get back? As of now, I am sending a network packet and I am looking to see what I get in reply. If something is returned, then it is a known host. Some hosts ignore everything, so how will we get those devics? Try other protocols? Spoof the network?
 
 All of those items are things I am currently asking myself. If there is a known host, we just open a TCP connection and start listening. For devices that can't be found we can try a multicast via UDP. Such devices like Chromecast or Amazon Echo are discoverable via universal plug and play. The idea behind this is that I will multicast an address via a range of IPs. Once I get replies I can open connections between these devices. The entire idea for this application, is if one could execute "arp -a" from their phone. But, its quite difficult and non-secure to execute an arp table in iOS. Especially with Apple's documentation.
 

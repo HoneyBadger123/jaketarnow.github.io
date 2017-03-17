@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Quick Background
+description: Little info about me and where I came from
+image: assets/images/pic05.jpg
 ---
 
 I am currently at the [University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/computer-science) pursuing my Master’s Degree in Computer Science. While a full-time student, I am also a part-time Developer at [Acxiom](http://www.acxiom.com/). I have held various roles in the tech industry since graduating from [Marquette University](http://www.marquette.edu/) in May 2013. I have worked for a start-up working closely with iOS developers, data scientists, and learning how to problem solve bugs in a simple and precise way. I have rebuilt the website for a publishing company, which exponentially increased viewership, and currently work for [Acxiom](http://www.acxiom.com/) where I write JavaScript parsing applications and programs for Fortune 500 companies.

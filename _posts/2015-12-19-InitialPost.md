@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Initial Blog Post
+description: Using Jekyll
+image: assets/images/pic06.jpg
 ---
 
 Working on Jekyll and how this all works with GitHub. More posts soon to come! 

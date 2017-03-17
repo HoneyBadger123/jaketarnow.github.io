@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Graduate School Part 2
-excerpt_separator: <!--more-->
+description: Natural Language Processing
+image: assets/images/pic03.jpg
 ---
 Second semester…wow. Hands down this was the hardest and most challenging semester and two classes I have ever taken in my educational career. The first class was Programming Languages. As described in Terence Parr’s class abstract: 
 
-Because programming languages are at the core of how we communicate with machines, programmers should have a thorough understanding of how languages are designed, implemented, and manipulated. This course concerns itself specifically with the implementation and translation of computer languages, leaving an in-depth study of language design to another course. Students will learn the formalisms behind computer languages, but the focus will be on developing the ability to build languages and their translators.<!--more-->
+Because programming languages are at the core of how we communicate with machines, programmers should have a thorough understanding of how languages are designed, implemented, and manipulated. This course concerns itself specifically with the implementation and translation of computer languages, leaving an in-depth study of language design to another course. Students will learn the formalisms behind computer languages, but the focus will be on developing the ability to build languages and their translators.
 
 Throughout the semester we worked on a variety of projects ranging from a Java REPL, C Declaration translator, Symbol Tables, VTables, Interpreter, Compiler, and finally a SmallTalk Virtual Machine. Yes, the projects were massive amounts of code, but it really opened my mind to really thinking intellectually and logically in ways that I had not done before. I believe once you know how to write code effectively and efficiently you are almost there, but once you can fully think and digest a problem to a scale of logically understanding something is what truly makes one a computer scientist or software engineer. 
 

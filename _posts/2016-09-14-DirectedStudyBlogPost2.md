@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Directed Study - Post 2
-excerpt_separator: <!--more-->
+description: Xcode and all things wifi
+image: assets/images/pic01.jpg
 ---
-For this week we discussed the basic design of the application. As you can see below, the design is quite simple right now. My plan is to allow the user to select the Wifi network that they wish to scan. Once slected, they can choose between a speed tests or device discovery. <!--more-->
+For this week we discussed the basic design of the application. As you can see below, the design is quite simple right now. My plan is to allow the user to select the Wifi network that they wish to scan. Once slected, they can choose between a speed tests or device discovery.
+
 The application will use ICMP protocols for device discovery. Yet, we will probably investigate other protocols as some things such as an Amazon Echo are hard to discover from a basic brute force ICMP pinging technique.
 
 ![Snoopy App V1]({{ site.url }}/images/Screen Shot 2016-09-15 at 8.26.53 PM.png){: .center-image height="350px" width="250px" }

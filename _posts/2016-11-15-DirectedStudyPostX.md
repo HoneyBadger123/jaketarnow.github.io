@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Directed Study - Post X
-excerpt_separator: <!--more-->
+description: Finishing the project
+image: assets/images/pic01.jpg
 ---
 Well, it's been a while. Super focused on all my projects and keep getting hit with issues and blocks on this one. Since my last post...which was about a month ago, we now have ICMP discovery and UPNP discovery working. *For anyone ever using C code within Objective-C...please please please be aware of you address space and how much memory you are allocating. Running C from cmd line is so much nicer with gdb and flags then in XCode*. 
 
-In the main app's table, you will see all devices that are found and the discovery protocol used. If you would like to run diagnostics for such device, you can click on a button where a nice little pop-up displays it.<!--more--> 
+In the main app's table, you will see all devices that are found and the discovery protocol used. If you would like to run diagnostics for such device, you can click on a button where a nice little pop-up displays it.
 
 But, there is no speedtest currently. *:(* I was able to research a pretty simple and efficient speedtest script that is using Python and C. Yet, there is not a ton of documentation on how to execute Python from Objective-C. So on we go, digging through StackOverflow and testing out scripts from terminal. 
 
