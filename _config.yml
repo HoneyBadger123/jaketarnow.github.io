@@ -6,7 +6,7 @@ description: My personal blog dumping knowledge bombs on all things computer sci
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jaketarnow.github.io" # the base hostname & protocol for your site
 author:
-street_address: 39 Tracy Court
+street_address: XXXXX
 city: Alamo
 state: CA
 zip_code: 94507
