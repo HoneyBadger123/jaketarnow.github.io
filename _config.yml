@@ -3,7 +3,7 @@ title: Jake Tarnow
 subtitle: Not Your Average Engineer
 email: jacobtarnow@gmail.com
 description: My personal blog dumping knowledge bombs on all things computer science and security/hacking
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 39 Tracy Court
