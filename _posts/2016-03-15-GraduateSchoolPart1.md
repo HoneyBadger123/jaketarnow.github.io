@@ -2,7 +2,7 @@
 layout: post
 title: Graduate School Part 1
 description: Getting that MS
-image: assets/images/pic04.jpg
+image: assets/images/pic07.jpg
 ---
 It has been a couple months already in my second semester of graduate school and things have definitely picked up. Last semester we had two classes and a seminar. The classes were: Principles of Software Development, Graduate Algorithms, and Research Seminar (Data Visualization).
 

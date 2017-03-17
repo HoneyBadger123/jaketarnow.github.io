@@ -2,7 +2,7 @@
 layout: post
 title: Directed Study - Post 3
 description: Device discovery via UDP multicast
-image: assets/images/pic01.jpg
+image: assets/images/pic03.jpg
 ---
 Currently all of the device discovery via the applications is using ICMP requests. What is the response we get back? As of now, I am sending a network packet and I am looking to see what I get in reply. If something is returned, then it is a known host. Some hosts ignore everything, so how will we get those devics? Try other protocols? Spoof the network?
 

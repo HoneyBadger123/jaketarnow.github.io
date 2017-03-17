@@ -2,7 +2,7 @@
 layout: post
 title: Graduate School Part 2
 description: Natural Language Processing
-image: assets/images/pic03.jpg
+image: assets/images/pic05.jpg
 ---
 Second semester…wow. Hands down this was the hardest and most challenging semester and two classes I have ever taken in my educational career. The first class was Programming Languages. As described in Terence Parr’s class abstract: 
 

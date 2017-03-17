@@ -2,7 +2,7 @@
 layout: post
 title: Directed Study - Post 1
 description: I'm building an app!
-image: assets/images/pic02.jpg
+image: assets/images/pic04.jpg
 ---
 Over the past week I have been reviewing Apple Developer Guides/Samples on ways to view devices on one's home network via an iOS app, aka Objective-C or Swift.
 

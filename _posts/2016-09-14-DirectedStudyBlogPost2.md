@@ -2,7 +2,7 @@
 layout: post
 title: Directed Study - Post 2
 description: Xcode and all things wifi
-image: assets/images/pic01.jpg
+image: assets/images/pic02.jpg
 ---
 For this week we discussed the basic design of the application. As you can see below, the design is quite simple right now. My plan is to allow the user to select the Wifi network that they wish to scan. Once slected, they can choose between a speed tests or device discovery.
 
