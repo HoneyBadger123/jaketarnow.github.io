@@ -11,7 +11,7 @@ city: Alamo
 state: CA
 zip_code: 94507
 country: United States of America
-phone: (925) 330-8816
+phone:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
