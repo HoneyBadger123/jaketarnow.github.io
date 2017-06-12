@@ -2,7 +2,7 @@
 title: About Me
 layout: post
 description: 'Just a lil something'
-image: assets/images/pic07.jpg
+image: assets/images/italypontevecchio.jpg
 nav-menu: true
 ---
 
