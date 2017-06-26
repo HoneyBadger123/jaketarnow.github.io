@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Directed Study - Post 1
-description: I'm building an app!
+title: WiFi Hacks
+description: Building an app to view devices on a network
 image: assets/images/pic04.jpg
 ---
 Over the past week I have been reviewing Apple Developer Guides/Samples on ways to view devices on one's home network via an iOS app, aka Objective-C or Swift.
