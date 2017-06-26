@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Directed Study - Post 3
+title: Device Protocols
 description: Device discovery via UDP multicast
 image: assets/images/pic03.jpg
 ---
@@ -8,8 +8,8 @@ Currently all of the device discovery via the applications is using ICMP request
 
 All of those items are things I am currently asking myself. If there is a known host, we just open a TCP connection and start listening. For devices that can't be found we can try a multicast via UDP. Such devices like Chromecast or Amazon Echo are discoverable via universal plug and play. The idea behind this is that I will multicast an address via a range of IPs. Once I get replies I can open connections between these devices. The entire idea for this application, is if one could execute "arp -a" from their phone. But, its quite difficult and non-secure to execute an arp table in iOS. Especially with Apple's documentation.
 
-Since all of these issue and challenges have been arising, I decided to go back and research some more. I researched again sending raw packets over Swift or Objective-C, and saw a couple of APIs that people have built on GitHub that you could use. The actual Apple Documentation is pretty vague when it comes to networking libraries. I did however fall upon some projects of discovery over UDP and TCP: https://github.com/robbiehanson/CocoaAsyncSocket. I also found an implementation where someone used the SimplePing (https://developer.apple.com/library/content/samplecode/SimplePing/Introduction/Intro.html) from Apple’s Documentation to discover hosts. I set it up in my simulator, and it actually discovered things on my network.
-My plan is  to go through the code and try and introduce some of the implementations from the documentation https://github.com/robbiehanson/CocoaAsyncSocket/wiki/Intro_GCDAsyncSocket. If I feel like I am making head-way with this, I think I will stick with the option of building this as an iOS app and use Objective-C instead of Swift. Seems like you have much more freedom and flexibility in regards to Networking with Objective-C.
+Since all of these issue and challenges have been arising, I decided to go back and research some more. I researched again sending raw packets over Swift or Objective-C, and saw a couple of APIs that people have built on GitHub that you could use. The actual Apple Documentation is pretty vague when it comes to networking libraries. I did however fall upon some [projects of discovery over UDP and TCP](https://github.com/robbiehanson/CocoaAsyncSocket). I also found an implementation where someone used the [SimplePing](https://developer.apple.com/library/content/samplecode/SimplePing/Introduction/Intro.html) from Apple’s Documentation to discover hosts. I set it up in my simulator, and it actually discovered things on my network.
+My plan is  to go through the code and try and introduce some of the implementations from the [documentation] (https://github.com/robbiehanson/CocoaAsyncSocket/wiki/Intro_GCDAsyncSocket). If I feel like I am making head-way with this, I think I will stick with the option of building this as an iOS app and use Objective-C instead of Swift. Seems like you have much more freedom and flexibility in regards to Networking with Objective-C.
 
 Next week, I will be testing multicating to IPs for discovery of Bonjour and UPnP devices. 
 <div id="disqus_thread"></div>
