@@ -7,10 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jaketarnow.github.io" # the base hostname & protocol for your site
 author:
 street_address: 
-city: Alamo
+city: San Francisco
 state: CA
-zip_code: 94507
-country: United States of America
+zip_code:
+country:
 phone:
 
 # Homepage tiles
